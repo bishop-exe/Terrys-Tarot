@@ -90,7 +90,7 @@ namespace Terry_sTarotV2
             this.pictureBox1.Size = new System.Drawing.Size(267, 537);
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
-            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click_1);
+
             // 
             // label2
             // 
@@ -121,7 +121,6 @@ namespace Terry_sTarotV2
             this.Name = "Form1";
             this.Opacity = 0.9D;
             this.Text = "   /  /  /  /  /  / T e r r y \' s   T a r o t  /   /  /  /  /  /  /  /";
-            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
