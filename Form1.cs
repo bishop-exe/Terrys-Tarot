@@ -264,5 +264,10 @@ namespace Terry_sTarotV2
         {
             this.RandomizePicture();
         }
+
+        private void pictureBox1_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
